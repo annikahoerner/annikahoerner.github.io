@@ -13,13 +13,13 @@ This week, we reflect on a central debate over GIS: are geographic information s
 
 ### what is science?
 
-* a method 
+* a method\ 
     science is the process of uncovering a answer or solving a problem using the classic hypothesis/testing/revision cycle
-* a way of understanding the world
+* a way of understanding the world\
     I also see science as a psychological attempt to gain a sense of control over the spiraling intricacies of the (mostly) natural world. This isn't a bad thing! But for me, it's important to think about the driving force behind science: a desire to understand through categorization and distinction to model some sort of control
-* reproducible & replicable
+* reproducible & replicable\
     science is also the process of learning and unlearning through the replciation and reproduction of previous studies. It's an interative and winding process that moves towards an "answer" or a conclusion or (rarely) a law through the shaving away of error
-* the avoidance of QRP
+* the avoidance of QRP\
     Throughout being a student & being a research assistant, I feel like I'm dodging QRP from every angle. Often the easy way out (and therefore so tempting!).
 
 ### is gis a science?
@@ -30,3 +30,4 @@ I think that critical GIS studies are expanding the field of GIS into a science 
 
 ### what is the role of gis discourse?
 
+These readings, as well as our class discussion, highlighted and validated some concerns that I've had about the role of open source vs. proprietary gis software in an era of rampant QRP under our national capitalist system. I view GIS as a tool; however, I view its role as a tool as *empowering* and *open* rather than something to be guarded or reduced. Rather than being a science, which feels inaccessible, closed, and prohibitively elite, a tool is applicable across disciplines and divisions. 
