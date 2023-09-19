@@ -11,7 +11,7 @@ tags:
 
 
 # open source GIS and reproducibility
-
+ 
 ### open source gis is helpful
 Open soure GIS refers to the movement that wants to make GIS software more accessible through reducing the barriers to accessing and understanding the osftware. As such, it's a helpful step towards amending issues of reproducibility in geography through removing barriers of access to academic and data-driven software. For reproducibility in particular — which is concerned with the ability to return similar and like results answering a given question — this increases the ability for checks and balances across the scientific community. Open source software allows researchers/citizens/the audience of scientific publications to follow the methodology of an article and apply that to their own dataset. GIS software has been historically proprietary and gate kept by corporations, which limits who is able to participate in the act of research and knowledge production. Open source GIS therefore not only aids in the reproducibility crisis in geography, but in the crisis of homogeneity in terms of the researchers themselves. 
 
