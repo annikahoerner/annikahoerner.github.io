@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Annika Hoerner"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Geography major, frequent canoer, occasional dj"
+  bio    : "Geography major and frequent canoer"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
