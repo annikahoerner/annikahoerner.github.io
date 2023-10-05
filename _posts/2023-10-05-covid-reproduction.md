@@ -10,7 +10,7 @@ tags:
 # How does disability interact with Covid-19 incidence?
 ## Reproducing Chakraborty's study
 
-This most recent update of the Chakraborty reproduction includes additional maps for vizualizing and interpreting the results of the GEE models. 
+Check out the updated Chakraborty study [here](https://annikahoerner.github.io/RPr-Chakraborty-2021/). 
 
 Working through this reproduction highlighted how many choices go into completing a study, which makes its reproduction even more difficult if those choices are not articulated clearly. I was surprised to see that there were discrepancies bewteen the reproduced analysis--both in the data management (those counties whose data was switched) and in the programming and in the ultimate results. 
 
